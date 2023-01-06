@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Lemsainnov.<br>⚡Data scientist<br>👯 Mobile Development team lead.<br>🤝 Currently working on Android face recognition App.<br>🌱 Currently learning: IBM Data Science Professional Certificate
+🔭 I’m currently working as Producat owner at Lemsainnov.<br>⚡Data scientist<br>👯 Mobile Development team lead.<br>🤝 Currently working on Android face recognition App.<br>🌱 Currently learning: IBM Data Science Professional Certificate
 
 
 ## 🌐 Socials:
